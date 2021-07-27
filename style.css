@@ -3,3 +3,12 @@
     background-color: #FFF9F4 ;
     padding-bottom: 80px;
 }
+.buy-now{
+    background-image: linear-gradient(#3D4FF3,   #3543BC);
+    color: white;
+    padding: 10px 24px ;
+    border-radius: 10px;
+}
+.ammount{
+    color: #FA804C;
+}
